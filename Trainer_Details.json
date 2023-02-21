@@ -1,0 +1,34 @@
+{
+    "93": {
+        "T_01": {
+            "Name": "Pratyush Srivastav",
+            "Age": "32",
+            "Gender": "Male",
+            "Phone Number": "8899663322",
+            "Email": "srivastavpratyuesh@gmail.com",
+            "Qulification": "M.Tech , B.Tech",
+            "Exprience": "5 Years",
+            "Password": "srivas@123"
+        },
+        "T_02": {
+            "Name": "Tabish Sharma",
+            "Age": "41",
+            "Gender": "Male",
+            "Phone Number": "7744112255",
+            "Email": "sharmatabish@outlook.com",
+            "Qulification": "M.Tech , B.Tech , MBa",
+            "Exprience": "8 Years",
+            "Password": "tabish@123"
+        },
+        "T_03": {
+            "Name": "Kanika Kapoor",
+            "Age": "25",
+            "Gender": "Female",
+            "Phone Number": "6336968541",
+            "Email": "kanika@outlook.com",
+            "Qulification": "M.Tech , Data Scientist",
+            "Exprience": "3 Years",
+            "Password": "kanika@12345"
+        }
+    }
+}

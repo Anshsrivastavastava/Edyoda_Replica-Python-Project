@@ -1,0 +1,34 @@
+{
+    "58": {
+        "197": {
+            "Name": "Ansh Srivastav",
+            "Age": "20",
+            "Gender": "Male",
+            "Phone Number": "7068113816",
+            "Email": "sriv.ansh@outlook.com",
+            "Qulification": "B.Sc , Data Analyst",
+            "Exprience": "2 Years",
+            "Password": "Ansh@2003"
+        },
+        "725": {
+            "Name": "Varsha Singh",
+            "Age": "22",
+            "Gender": "Female",
+            "Phone Number": "8899663311",
+            "Email": "vashsingh@gmil.com",
+            "Qulification": "12th Pass",
+            "Exprience": "Fresher",
+            "Password": "987654321"
+        },
+        "309": {
+            "Name": "Vikrant Singh Patwal",
+            "Age": "32",
+            "Gender": "Male",
+            "Phone Number": "8855223366",
+            "Email": "vikrant@gmail.com",
+            "Qulification": "B.Tech , M.Tech",
+            "Exprience": "5 Years",
+            "Password": "Vikrant@123"
+        }
+    }
+}
